@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://sqlwindspeaker.github.io/sitemap.xml 
